@@ -12,4 +12,4 @@ for (let i = 0; i <= lines; i++) {
     result += "\n";
 }
 
-console.log(result)
+console.log(result);
