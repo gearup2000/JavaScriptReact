@@ -1,7 +1,7 @@
 "use strict";
 
 let num = 50;
-let num2 = 50;
+
 
 // while cycle
 while (num <= 55) {
@@ -10,6 +10,7 @@ while (num <= 55) {
 }
 
 //do cycle
+let num2 = 50;
 do {
     console.log('do cycle output', num2);
     num2++;
